@@ -2,9 +2,10 @@
 Bash-like REPL implemented in C. Supports interactive and non-interactive mode.
 
 ## Installation & Usage
-```
+```bash
 gcc repl.c -o repl
 ./repl
+```
 
 ## Examples
 ```bash
