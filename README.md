@@ -77,7 +77,7 @@ unlink: No such file or directory
 mysh> rename bash-settings bash-conf
 mysh> dirlist
 bash-conf-soft  bash-conf  bliznjica  ..  .
-mysh> # preusmerjanje
+mysh> # redirection
 mysh> echo something >a.txt
 mysh> cat a.txt
 something
