@@ -16,7 +16,7 @@ abrakadabra>
 abrakadabra>
 abrakadabra> name mysh
 mysh> print Simple shell
-Preprosta lupinamysh> echo No quotes
+Simple shellmysh> echo No quotes
 No quotes
 mysh> echo "With      quotes"
 With      quotes
